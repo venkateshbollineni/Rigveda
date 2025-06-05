@@ -1,1 +1,1 @@
-# This repo consists of the all the content related to the Rigevda Web application
+# This repo consists of the all the files related to the Rigevda Web application
